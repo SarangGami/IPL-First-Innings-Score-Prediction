@@ -12,8 +12,6 @@ teams1 = ['Mumbai Indians','Royal Challengers Bangalore', 'Chennai Super Kings',
 teams2 = ['Chennai Super Kings','Mumbai Indians','Royal Challengers Bangalore','Kolkata Knight Riders',
          'Kings XI Punjab', 'Rajasthan Royals',
          'Delhi Daredevils', 'Sunrisers Hyderabad']
-         
-st.set_page_config(page_title = 'IPL_Score_Predictor.com',layout='wide')
 
 st.title('IPL Score Predictor')
 
