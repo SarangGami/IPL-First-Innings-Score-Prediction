@@ -55,4 +55,4 @@ if st.button('Predict Score'):
       'balls_left': [balls_left], 'wickets_left': [wickets_left], 'crr': [crr], 'runs_last_5': [last_five_runs], 'wickets_last_5': [last_five_wickets]})
     
     result = pipe.predict(input_df)
-    st.header("Predicted Score - " + str(int(result[0]-7)) + ' TO ' + str(int(result[0]+3)))
+    st.header("Predicted Score - " + str(int(result[0]-4)) + ' TO ' + str(int(result[0]+6)))
