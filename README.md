@@ -11,7 +11,9 @@
 
 - Therefore, the predictions made by our model should be interpreted with this limitation in mind. Nonetheless, our model can still provide valuable insights into the performance of the 8 teams that were present during the 2008-2018 period and can be used to make informed predictions about future matches involving these teams.
 
-### • **This repository consists of files required to deploy a Machine Learning Web App created using Streamlit on Streamlit platform.**
+### • **This repository consists of files required to deploy a Machine Learning Web App created using Streamlit on Streamlit platform. to use this webpage of IPL Score Predictor [Click here](https://saranggami-ipl-first-innings-score-prediction-app-322tgk.streamlit.app/)**
 
-I have deployed this on AWS Elastic Beanstalk platform Link: https://saranggami-ipl-first-innings-score-prediction-app-322tgk.streamlit.app/
+![ipl-2008 to 2018](https://user-images.githubusercontent.com/121340232/230337217-fc52759c-bf6a-44ec-ad84-91c91018e0cc.png)
+
+
 
