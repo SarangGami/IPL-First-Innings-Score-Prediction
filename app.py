@@ -3,7 +3,8 @@ import pickle
 import pandas as pd
 import numpy as np
 
-pipe = pickle.load(open('E:/projects/ipl project/pipe.pkl','rb'))
+path = "E:\projects\ipl project\pipe.pkl"
+pipe = pickle.load(open(path,'rb'))
 
 teams1 = ['Mumbai Indians','Royal Challengers Bangalore', 'Chennai Super Kings', 'Kolkata Knight Riders',
          'Kings XI Punjab', 'Rajasthan Royals',
