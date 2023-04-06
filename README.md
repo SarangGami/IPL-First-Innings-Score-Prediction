@@ -3,7 +3,7 @@
 ![IPL-captains](https://user-images.githubusercontent.com/121340232/230281129-7835f5fc-f409-42c6-b8f4-fc01b1431dc7.png)
 
 
-## Overview -
+## **Overview :-**
 
 - This project uses machine learning techniques to predict the outcomes of IPL matches involving 8 teams. The dataset includes IPL match records from 2008 to 2018, and the goal is to accurately predict the outcomes of matches.
 
@@ -11,9 +11,9 @@
 
 - Therefore, the predictions made by our model should be interpreted with this limitation in mind. Nonetheless, our model can still provide valuable insights into the performance of the 8 teams that were present during the 2008-2018 period and can be used to make informed predictions about future matches involving these teams.
 
+<BR/>
+
 ### • **This repository consists of files required to deploy a Machine Learning Web App created using Streamlit on Streamlit platform. to use this webpage of IPL Score Predictor [Click here](https://saranggami-ipl-first-innings-score-prediction-app-322tgk.streamlit.app/)**
 
-![ipl-2008 to 2018](https://user-images.githubusercontent.com/121340232/230337217-fc52759c-bf6a-44ec-ad84-91c91018e0cc.png)
 
-
-
+![IPL_2008_TO_2018](https://user-images.githubusercontent.com/121340232/230433127-5d2f1d04-177b-406f-a13f-badcfa4d0152.png)
