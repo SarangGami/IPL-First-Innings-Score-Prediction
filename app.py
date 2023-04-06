@@ -2,8 +2,6 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-import sklearn
-from sklearn.ensemble import GradientBoostingRegressor
 
 pipe = pickle.load(open('pipe.pkl','rb'))
 
