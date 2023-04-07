@@ -16,4 +16,4 @@
 ### • **This repository consists of files required to deploy a Machine Learning Web App created using Streamlit on Streamlit platform. to use this webpage of IPL Score Predictor [Click here](https://saranggami-ipl-first-innings-score-prediction-app-322tgk.streamlit.app/)**
 
 
-![IPL_2008_TO_2018](https://user-images.githubusercontent.com/121340232/230433127-5d2f1d04-177b-406f-a13f-badcfa4d0152.png)
+![IPL_2008_TO_2018](https://user-images.githubusercontent.com/121340232/230604545-5df8eb47-a183-4594-b131-f55a234dae0d.png)
