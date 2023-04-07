@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import numpy as np
 
-pipe = pickle.load(open('pipe.pkl','rb'))
+pipe = pickle.load(open('pipe2.pkl','rb'))
 
 teams1 = ['Mumbai Indians','Royal Challengers Bangalore', 'Chennai Super Kings', 'Kolkata Knight Riders',
          'Kings XI Punjab', 'Rajasthan Royals',
