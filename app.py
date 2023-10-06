@@ -4,8 +4,6 @@ import pandas as pd
 import numpy as np
 import xgboost
 from xgboost import XGBRegressor
-import joblib
-import scikit-learn
 
 
 pipe = pickle.load(open('pipe2.pkl','rb'))
@@ -60,12 +58,6 @@ if st.button('Predict Score'):
       'balls_left': [balls_left], 'wickets_left': [wickets_left], 'crr': [crr], 'runs_last_5': [last_five_runs], 'wickets_last_5': [last_five_wickets]})
     
     result = pipe.predict(input_df)
-
-    # Save the model
-    joblib.dump(result, 'pipe2.joblib')
-
-    # Load the model
-    result = joblib.load('pipe2.joblib')
     
     st.header("Predicted Score - " + str(int(result[0]-2)) + ' TO ' + str(int(result[0]+8)))
 
