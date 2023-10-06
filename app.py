@@ -5,6 +5,8 @@ import numpy as np
 import xgboost
 from xgboost import XGBRegressor
 import joblib
+import scikit-learn
+
 
 pipe = pickle.load(open('pipe2.pkl','rb'))
 
